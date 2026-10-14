@@ -48,7 +48,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2ea043/JPDiazRivera" alt="Contribuciones de JPDiazRivera" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=JPDiazRivera&theme=react-dark&hide_border=true" alt="Contribution Graph de JPDiazRivera" />
 </p>
 
 ---
