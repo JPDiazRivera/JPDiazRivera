@@ -35,7 +35,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPDiazRivera&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=JPDiazRivera&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -47,7 +47,9 @@
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JPDiazRivera&theme=react-dark&hide_border=true" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea043/JPDiazRivera" alt="Contribuciones de JPDiazRivera" />
+</p>
 
 ---
 
