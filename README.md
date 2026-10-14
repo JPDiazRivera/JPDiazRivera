@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 soy JP Díaz Rivera</h1>
 
-<h3 align="center">Tu rol • Tus intereses • Tu especialidad</h3>
+<h3 align="center">Estudiante de Ingeniería de Sistemas • Ciberseguridad y Hacking • Programación</h3>
 
 ---
 
